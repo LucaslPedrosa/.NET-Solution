@@ -150,3 +150,7 @@ Use `.env` to control the `VITE_USE_MOCK` value.
 ## 👷 Author & Interview Context
 
 This project was developed by **Lucas Pedrosa Larangeira** as part of a technical interview process. The goal was to build a full-stack system applying good architectural practices while demonstrating software design, testing, and clean UI implementation.
+
+### 🎥 Project Demo
+
+[▶ Watch Project Video](./screenshots/projectVideo.mp4)
