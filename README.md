@@ -48,7 +48,7 @@ The project follows **Clean Architecture** with **Domain-Driven Design (DDD)** a
 
 ### 🗺️ Architecture Diagram
 
-![Architecture](./screenshots/archtecture.png)
+![Architecture](./screenshots/architecture.png)
 
 ---
 
