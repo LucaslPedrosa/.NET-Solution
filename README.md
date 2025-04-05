@@ -153,4 +153,4 @@ This project was developed by **Lucas Pedrosa Larangeira** as part of a technica
 
 ### 🎥 Project Demo
 
-[▶ Watch Project Video](./screenshots/projectVideo.mp4)
+[▶ Watch Project Video](https://youtu.be/Hw-4i0rRccI)
