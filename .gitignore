@@ -1,0 +1,60 @@
+# === .NET & Visual Studio ===
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.vs/
+.vscode/
+TestResults/
+*.ncrunch*
+_ReSharper*/
+*.cache/
+*.ide/
+*.dbmdl
+*.opendb
+*.sdf
+*.sqlite
+*.db
+*.mdf
+*.ldf
+*.pdb
+
+# === Entity Framework Migrations History ===
+Migrations/
+
+# === Node/Vue.js Frontend ===
+node_modules/
+dist/
+.env
+.env.*.local
+
+# === Logs and temporary files ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+Thumbs.db
+
+# === OS/Editor-specific ===
+*.swp
+*.bak
+*.tmp
+*.orig
+.idea/
+.vscode/
+*.code-workspace
+
+# === Misc ===
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.gz
+*.rar
+*.log
+*.lock
+coverage/

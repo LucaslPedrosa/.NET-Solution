@@ -1,0 +1,6 @@
+@TrueWebAPI_HostAddress = http://localhost:5197
+
+GET {{TrueWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
