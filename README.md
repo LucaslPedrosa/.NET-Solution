@@ -46,12 +46,6 @@ The project follows **Clean Architecture** with **Domain-Driven Design (DDD)** a
 
 ---
 
-### 🗺️ Architecture Diagram
-
-![Architecture](./screenshots/architecture.png)
-
----
-
 ## 🖼️ UI Preview
 
 | Light Mode | Dark Mode |
@@ -121,29 +115,6 @@ npm run dev
 ```
 
 Use `.env` to control the `VITE_USE_MOCK` value.
-
----
-
-## ✅ Feature Checklist
-
-| Feature                        | Status |
-|-------------------------------|--------|
-| Filter jokes by type          | ✅      |
-| Search by external ID         | ✅      |
-| Likes (saved to DB)           | ✅      |
-| Dark mode                     | ✅      |
-| Mock Mode                     | ✅      |
-| Hourly upsert job (Hangfire)  | ✅      |
-| Dashboard                     | ✅      |
-| Unit tests (xUnit + Moq)      | ✅      |
-
----
-
-## 📌 Notes
-
-- No authentication was added to ease testing.
-- CORS must be enabled in the backend to access API from frontend.
-- Hosted entirely in one GitHub repository for simplicity.
 
 ---
 
