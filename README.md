@@ -4,20 +4,6 @@ A complete full-stack application built with .NET 9, Clean Architecture, and Vue
 
 ---
 
-## 📦 Functionality
-
-This software fetches jokes from the [Official Joke API](https://official-joke-api.appspot.com/), stores them in a SQL Server database, and displays them through a Vue.js frontend. It supports:
-
-- 🔍 Filterable and searchable joke listing.
-- 🆔 Search jokes by external ID.
-- ❤️ Like system persisted in the database.
-- 🧪 Mock mode for testing without backend.
-- 📊 Stats dashboard showing most liked, total jokes, grouped by type.
-- 🎲 Random joke fetch from external API.
-- 🔁 Hourly upsert job via Hangfire in a Worker Service.
-
----
-
 ## 🧱 Architecture
 
 The project follows **Clean Architecture** with **Domain-Driven Design (DDD)** and **SOLID** principles. It's structured into:
