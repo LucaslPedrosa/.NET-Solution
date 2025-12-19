@@ -4,7 +4,7 @@ A complete full-stack application built with .NET 9, Clean Architecture, and Vue
 
 ---
 
-## 🧱 Architecture
+## 📐 Architecture
 
 The project follows **Clean Architecture** with **Domain-Driven Design (DDD)** and **SOLID** principles. It's structured into:
 
